@@ -2,6 +2,20 @@
 
 ---
 
+## Sobre
+
+Esse projeto foi feito com o intuito de automatizar o processo de relatos sobre enchentes na região de Heliópolis, São Paulo. O bot foi feito em python e usa a API da Twilio para se conectar ao whatsapp, e o ngrok para emular um deploy (caso necessario).
+
+Essa é uma parte da integração, caso deseje ver o resto do projeto, siga para os seguintes links:
+
+[Admin-page](https://github.com/marchettomarcelo/sprint-2023.1)
+
+[Dashboard-data](https://github.com/alfredjynx/DashBoard-Heliopolis)
+
+[Spring]()
+
+---
+
 ## Instalação
 
 Para executar o bot siga o seguinte tutorial
